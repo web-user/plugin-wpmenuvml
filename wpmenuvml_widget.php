@@ -6,7 +6,7 @@ class wpmenuvml extends WP_Widget {
     function wpmenuvml() {
 	
 		$name =			'Wpmenuvml';
-		$desc = 		'Create Vertical Mega Menus From Any Wordpress Custom Menu';
+		$desc = 		'Create Vertical Menus From Any Wordpress Custom Menu';
 		$id_base = 		'wpmenuvml';
 		$css_class = 	'';
 		$alt_option = 	'widget_wpmenuvml_navigation'; 
