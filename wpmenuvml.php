@@ -1,7 +1,7 @@
 <?php
 /*
 		Plugin Name: Wpmenuvml
-		Plugin URI: 
+		Plugin URI: https://github.com/web-user/plugin-wpmenuvml.git
 		Tags: jquery, flyout, mega, menu, vertical,navigation, widget, background-color
 		Description: Creates a widget, which allows you to add vertical menus to your side columns using any Wordpress custom menu.
 		Author: 
